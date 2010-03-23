@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/tim/git/searchtestbed'
+let g:netrw_dirhist_2='/home/tim/git/searchtestbed/searchtestbed'
+let g:netrw_dirhist_3='/home/tim/git/searchtestbed/searchtestbed/clippings'
+let g:netrw_dirhist_4='/home/tim/git/searchtestbed'
+let g:netrw_dirhist_5='/home/tim/git/searchtestbed/searchtestbed'
+let g:netrw_dirhist_6='/home/tim/git/searchtestbed/searchtestbed/clippings'

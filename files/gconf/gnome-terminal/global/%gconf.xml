@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="default_profile" mtime="1268915216" type="string">
+		<stringvalue>Default</stringvalue>
+	</entry>
+	<entry name="profile_list" mtime="1268915215" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>Default</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>Profile0</stringvalue>
+		</li>
+	</entry>
+	<entry name="use_mnemonics" mtime="1233051996" type="bool" value="false"/>
+</gconf>

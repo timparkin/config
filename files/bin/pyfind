@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name \*.py | xargs grep -n $2 $1
